@@ -1,8 +1,10 @@
-# React + Vite
+# bookMe
+Description
+BookWorld is a website project that provides a platform for discovering and purchasing various types of books. The site is designed to offer a user-friendly and engaging experience, allowing users to search for books based on genre, author, or title.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Key Features
+Book Search: Users can search for books based on title
+Book Catalog: A browseable book catalog based on genre or specific categories.
+Detailed Book Information: Detail pages provide comprehensive information about each book, including synopsis, author details, and user reviews.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
